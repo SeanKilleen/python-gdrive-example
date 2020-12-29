@@ -1,3 +1,5 @@
+# Taken from the Python quickstart guide. Verified on my account.
+
 from __future__ import print_function
 import pickle
 import os.path
